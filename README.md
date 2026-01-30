@@ -25,7 +25,7 @@ Aplikasi chatbot sederhana yang mengintegrasikan **Google Gemini AI** dengan bac
 
 1. **Clone repository ini** (atau masuk ke direktori project):
    ```bash
-   cd Sesi5/gemini-chatbot-api
+   cd gemini-chatbot-api
    ```
 
 2. **Install dependencies**:
@@ -37,7 +37,6 @@ Aplikasi chatbot sederhana yang mengintegrasikan **Google Gemini AI** dengan bac
    Buat file `.env` di root direktori project dan tambahkan API Key Anda:
    ```env
    GEMINI_API_KEY=api_key_gemini_kamu_disini
-   PORT=3000
    ```
 
 ## ▶️ Menjalankan Aplikasi
